@@ -1,5 +1,9 @@
 # Android Weather App
 
+
+![Image](https://github.com/user-attachments/assets/14c09b8d-5cde-4852-a0cc-a5c6b6b99af0)
+![Image](https://github.com/user-attachments/assets/9be42a8d-b925-4afd-9a56-29c37fd05ff5)
+
 A simple Android application that displays real-time weather information for a user-specified location. The app fetches weather data from a public API and displays it in a clean, user-friendly interface.
 
 ## Features
@@ -41,9 +45,3 @@ A simple Android application that displays real-time weather information for a u
 3. Add your API key in the appropriate place in `WeatherService.java` or `MainActivity.java`:
    ```java
    private final String API_KEY = "YOUR_API_KEY_HERE";
-
-
-## Screenshots
-
-![Image](https://github.com/user-attachments/assets/14c09b8d-5cde-4852-a0cc-a5c6b6b99af0)
-![Image](https://github.com/user-attachments/assets/9be42a8d-b925-4afd-9a56-29c37fd05ff5)
